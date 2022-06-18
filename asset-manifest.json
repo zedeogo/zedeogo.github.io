@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.0fcbac45.css",
-    "main.js": "/static/js/main.42006c48.js",
-    "static/media/JosefinSans-SemiBold.ttf": "/static/media/JosefinSans-SemiBold.3fc02ffe3b6f114e24cf.ttf",
-    "static/media/JosefinSans-Regular.ttf": "/static/media/JosefinSans-Regular.511e3c3173e1aba79ba0.ttf",
-    "static/media/JosefinSans-Bold.ttf": "/static/media/JosefinSans-Bold.958fefb32cf3d337d5bf.ttf",
-    "index.html": "/index.html",
-    "main.0fcbac45.css.map": "/static/css/main.0fcbac45.css.map",
-    "main.42006c48.js.map": "/static/js/main.42006c48.js.map"
+    "main.css": "/zedeogo-portfolio/static/css/main.c640528a.css",
+    "main.js": "/zedeogo-portfolio/static/js/main.42006c48.js",
+    "static/media/JosefinSans-SemiBold.ttf": "/zedeogo-portfolio/static/media/JosefinSans-SemiBold.3fc02ffe3b6f114e24cf.ttf",
+    "static/media/JosefinSans-Regular.ttf": "/zedeogo-portfolio/static/media/JosefinSans-Regular.511e3c3173e1aba79ba0.ttf",
+    "static/media/JosefinSans-Bold.ttf": "/zedeogo-portfolio/static/media/JosefinSans-Bold.958fefb32cf3d337d5bf.ttf",
+    "index.html": "/zedeogo-portfolio/index.html",
+    "main.c640528a.css.map": "/zedeogo-portfolio/static/css/main.c640528a.css.map",
+    "main.42006c48.js.map": "/zedeogo-portfolio/static/js/main.42006c48.js.map"
   },
   "entrypoints": [
-    "static/css/main.0fcbac45.css",
+    "static/css/main.c640528a.css",
     "static/js/main.42006c48.js"
   ]
 }
